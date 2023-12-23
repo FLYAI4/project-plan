@@ -1,0 +1,28 @@
+---
+name: "\bproject-plan base template"
+about: 프로젝트 기획 기본 템플릿입니다. Description, Goal, Todo을 제외한 아래 부분은 자유롭게 수정 사용이 가능합니다.
+title: "[Plan] "
+labels: Plan
+assignees: ''
+
+---
+
+### 📌 Description
+
+
+<br>
+
+### 🎈 Goal
+*구체적인 산출물을 포함한 목표를 작성해주세요.*
+- 
+
+<br>
+
+### ✏️ Todo
+*목표 달성을 위해 해야할 일을 세부적으로 작성해주세요.*
+- [ ] 
+
+------
+
+## 1. 소제목
+### Contents
